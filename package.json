@@ -1,5 +1,5 @@
 {
-  "name": "hintwhisper/oneall-sdk",
+  "name": "oneall-sdk",
   "version": "0.0.8",
   "description": "Oneall sdk",
   "main": "index.js",
@@ -16,7 +16,15 @@
   "author": {
     "name": "Baboom"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hintwhisper/node-js-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hintwhisper/node-js-sdk/issues"
+  },
   "license": "ISC",
   "readme": "An sdk that maps the Oneall REST API into nodejs.",
-  "readmeFilename": "README.md"
+  "readmeFilename": "README.md",
+  "_resolved": "git+ssh://git@github.com:hintwhisper/node-js-sdk"
 }
